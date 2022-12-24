@@ -1,0 +1,8 @@
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\bin\Debug\Practices.exe.config
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\bin\Debug\Practices.exe
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\bin\Debug\Practices.pdb
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\obj\Debug\Practices.csproj.AssemblyReference.cache
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\obj\Debug\Practices.csproj.SuggestedBindingRedirects.cache
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\obj\Debug\Practices.csproj.CoreCompileInputs.cache
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\obj\Debug\Practices.exe
+D:\Users\boora\project\Task-16.7.-Workshop\Practices\Practices\obj\Debug\Practices.pdb
